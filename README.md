@@ -12,29 +12,93 @@
 - 📚 正在学习: 大型语言模型在后端系统的应用
 - 📫 联系我: hezhaohui0807@163.com
 
-### 🛠 技术栈
+### 🛠️ 技术栈
 
-<p align="left">
-  <!-- 核心语言 -->
-  <strong>语言:</strong>
-  <img src="https://skillicons.dev/icons?i=java,python,go" alt="编程语言" />
+<div style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+">
+
+  <!-- 编程语言 -->
+  <div style="
+      background: #f3f4f6;
+      padding: 1.5rem;
+      border-radius: 0.5rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  ">
+    <h4 style="margin-top: 0; margin-bottom: 1rem; color: #2563eb">编程语言</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.8rem">
+      <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=go" title="Go" alt="Go" />
+    </div>
+  </div>
   
-  <!-- 服务框架 -->
-  <strong>框架:</strong>
-  <img src="https://skillicons.dev/icons?i=spring,flask,gin" alt="后端框架" />
+  <!-- 后端框架 -->
+  <div style="
+      background: #f3f4f6;
+      padding: 1.5rem;
+      border-radius: 0.5rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  ">
+    <h4 style="margin-top: 0; margin-bottom: 1rem; color: #2563eb">后端框架</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.8rem">
+      <img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring" />
+      <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" />
+      <img src="https://skillicons.dev/icons?i=gin" title="Gin" alt="Gin" />
+    </div>
+  </div>
   
   <!-- 数据存储 -->
-  <strong>数据库:</strong>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="数据库" />
+  <div style="
+      background: #f3f4f6;
+      padding: 1.5rem;
+      border-radius: 0.5rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  ">
+    <h4 style="margin-top: 0; margin-bottom: 1rem; color: #2563eb">数据存储</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.8rem">
+      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" />
+    </div>
+  </div>
   
   <!-- 基础设施 -->
-  <strong>基础设施:</strong>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" alt="基础设施" />
+  <div style="
+      background: #f3f4f6;
+      padding: 1.5rem;
+      border-radius: 0.5rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  ">
+    <h4 style="margin-top: 0; margin-bottom: 1rem; color: #2563eb">基础设施</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.8rem">
+      <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" />
+      <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" />
+    </div>
+  </div>
   
   <!-- 开发工具 -->
-  <strong>工具链:</strong>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="开发工具" />
-</p>
+  <div style="
+      background: #f3f4f6;
+      padding: 1.5rem;
+      border-radius: 0.5rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  ">
+    <h4 style="margin-top: 0; margin-bottom: 1rem; color: #2563eb">开发工具</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.8rem">
+      <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ" alt="IntelliJ" />
+      <img src="https://skillicons.dev/icons?i=vscode" title="VSCode" alt="VSCode" />
+    </div>
+  </div>
+</div>
 
 ### 🏆 GitHub 成就
 
