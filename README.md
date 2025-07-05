@@ -1,24 +1,19 @@
-<h1 align="center">你好，我是 [你的名字] 👋</h1>
+<h1 align="center">你好，我是 Wonder 👋</h1>
 <p align="center">
-  <a href="https://github.com/2311719626">
-    <img src="https://komarev.com/ghpvc/?username=2311719626&label=个人主页浏览&color=blue&style=flat" alt="个人主页浏览" />
-  </a>
-  <a href="[你的技术博客链接]">
-    <img alt="技术博客" src="https://img.shields.io/badge/技术博客-分享知识-orange?style=flat&logo=gitbook">
+  <a href="https://www.hezhaohui.cn/">
+    <img alt="个人网站" src="https://img.shields.io/badge/个人网站-分享知识-orange?style=flat&logo=gitbook">
   </a>
 </p>
 
 ### 🧠 关于我
 
-- 🔭 目前正在从事: [你的当前工作/项目]
-- 🌱 正在学习: [你正在学习的技术]
-- 👯 希望合作于: [你感兴趣的领域]
-- 💬 可以问我: [你精通的技术领域]
-- 📫 联系我: [你的email或社交媒体]
-- 😄 我的标签: [使用表情描述自己]
-- ⚡ 有趣的事实: [关于你的有趣事实]
+- 🔭 目前正在从事: [学生(大二)]
+- 🌱 正在学习: [Java + LLM]
+- 📫 联系我: [Email： hezhaohui0807@163.com]
 
 ### 🛠 技术栈
+
+<!-- ai! -->
 
 <p align="left">
   <!-- 语言 -->
