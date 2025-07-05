@@ -7,23 +7,33 @@
 
 ### 🧠 关于我
 
-- 🔭 目前正在从事: [学生(大二)]
-- 🌱 正在学习: [Java + LLM]
-- 📫 联系我: [Email： hezhaohui0807@163.com]
+- 🔭 目前职位: 后端开发工程师 (Java方向)
+- 🌱 技术专长: 高并发系统设计、分布式架构、数据库优化
+- 📚 正在学习: 大型语言模型在后端系统的应用
+- 📫 联系我: hezhaohui0807@163.com
 
 ### 🛠 技术栈
 
-<!-- ai! -->
-
 <p align="left">
-  <!-- 语言 -->
-  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts,cpp" alt="编程语言" />
+  <!-- 核心语言 -->
+  <strong>语言:</strong>
+  <img src="https://skillicons.dev/icons?i=java,python,go" alt="编程语言" />
   
-  <!-- 框架 -->
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,spring,django" alt="框架" />
+  <!-- 服务框架 -->
+  <strong>框架:</strong>
+  <img src="https://skillicons.dev/icons?i=spring,flask,gin" alt="后端框架" />
   
-  <!-- 工具 -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github" alt="工具" />
+  <!-- 数据存储 -->
+  <strong>数据库:</strong>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="数据库" />
+  
+  <!-- 基础设施 -->
+  <strong>基础设施:</strong>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" alt="基础设施" />
+  
+  <!-- 开发工具 -->
+  <strong>工具链:</strong>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="开发工具" />
 </p>
 
 ### 🏆 GitHub 成就
