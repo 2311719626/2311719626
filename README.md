@@ -46,8 +46,6 @@
     <h4 style="margin-top: 0; margin-bottom: 1rem; color: #2563eb">后端框架</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 0.8rem">
       <img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring" />
-      <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" />
-      <img src="https://skillicons.dev/icons?i=gin" title="Gin" alt="Gin" />
     </div>
   </div>
   
