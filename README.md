@@ -98,9 +98,10 @@
   </div>
 </div>
 
-### ⏱️ 每周编程时间
+### ⏱️ WakaTime
 <p align="center">
-  <figure><embed src="https://wakatime.com/share/@Wonder/34f7638e-bee6-4368-9488-e3498e16dfae.svg"></embed></figure>
+  <img height="300" src="https://wakatime.com/share/@Wonder/34f7638e-bee6-4368-9488-e3498e16dfae.svg" alt="WakaTime Monthly Stats" />
+  <img height="300" src="https://wakatime.com/share/@Wonder/883224f0-14c7-4d17-bf39-260bda9caaa1.svg" alt="WakaTime Monthly Stats"></img>
 </p>
 
 ### 🏆 GitHub 成就
