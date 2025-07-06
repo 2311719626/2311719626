@@ -98,6 +98,12 @@
   </div>
 </div>
 
+### ⏱️ 每周编程时间
+<p align="center">
+  <!-- 替换 YOUR_USERNAME 和 YOUR_EMBED_ID 为实际值 -->
+  <img height="300" src="https://wakatime.com/share/@YOUR_USERNAME/YOUR_EMBED_ID.svg" alt="WakaTime Weekly Stats" />
+</p>
+
 ### 🏆 GitHub 成就
 
 <p align="center">
