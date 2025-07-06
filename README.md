@@ -100,8 +100,7 @@
 
 ### ⏱️ 每周编程时间
 <p align="center">
-  <!-- 替换 YOUR_USERNAME 和 YOUR_EMBED_ID 为实际值 -->
-  <img height="300" src="https://wakatime.com/share/@YOUR_USERNAME/YOUR_EMBED_ID.svg" alt="WakaTime Weekly Stats" />
+  <figure><embed src="https://wakatime.com/share/@Wonder/34f7638e-bee6-4368-9488-e3498e16dfae.svg"></embed></figure>
 </p>
 
 ### 🏆 GitHub 成就
