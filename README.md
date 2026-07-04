@@ -117,7 +117,7 @@
       gap: 0.5rem;
   ">
     <div style="display: flex; gap: 0.5rem; align-items: center;">
-      <img src="https://cdn.simpleicons.org/claude" title="Claude AI" alt="Claude" style="height:2rem;" />
+      <img src="https://cdn.simpleicons.org/claude" title="Claude AI" alt="Claude" width="32" height="32" style="height:2rem; width:2rem; object-fit:contain;" />
     </div>
     <h4 style="margin: 0; color: #2563eb;">AI & Agent</h4>
     <ul style="margin: 0; padding-left: 1.2rem; color: #374151; line-height: 1.7;">
